@@ -1,0 +1,16 @@
+{
+	"Redirect": {
+		"from": {
+      "string": {
+
+      }
+    },
+		"to": {
+      "string": {
+
+      }
+    },
+		"isExternal": { "boolean": {} },
+		"type": { "string": [ "PERMANENT", "TEMPORARY" ] }
+	}
+}
